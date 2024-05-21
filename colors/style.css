@@ -1,0 +1,35 @@
+
+#field td {
+	width: 110px;
+	height: 110px;
+	border: 1px solid rgba(255, 255, 255, 0.378);
+	font-weight: bold;
+    
+}
+
+body{
+	background-image: url(fon.jpg);
+}
+table{
+	display: flex; justify-content: center;
+}
+h1{
+	text-align: center;
+}
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+}
+h1 {
+    color: azure;
+}
+div {
+    color: azure;
+    font-size: larger;
+    display: flex; justify-content: center;
+}
