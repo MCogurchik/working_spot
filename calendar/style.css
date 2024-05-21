@@ -1,0 +1,27 @@
+#parent {
+    text-align: center;
+  }
+  #calendar {
+    display: inline-block;
+  }
+  #calendar td, #calendar th {
+    padding: 20px;
+    border: 1px solid rgb(15, 12, 159);
+    text-align: center;
+  }
+  
+  #calendar .nav, #calendar .info {
+    text-align: center;
+  }
+  #calendar a {
+    color: rgb(255, 142, 13);
+    font-size: 32px;
+    text-decoration: none;
+  }
+  #calendar a:hover {
+    color: rgb(255, 0, 255);
+  }
+  
+  #calendar .active {
+    color: rgb(255, 0, 255);
+  }
