@@ -1,0 +1,57 @@
+body {
+	text-align: center;
+	background-color: rgba(255, 235, 205, 0.782);
+}
+
+#input, #list {
+	display: inline-block;
+	width: 26%;
+	height: 20px;
+	margin-top: 1%;
+	border-radius: 3px;
+	
+}
+
+#list {
+	padding: 0;
+	list-style-type: none;
+}
+#list span {
+	margin-right: 5px;
+}
+#list .remove, #list .mark {
+	cursor: pointer;
+}
+#list .remove:hover, #list .mark:hover {
+	text-decoration: underline;
+	color: rgba(137, 43, 226, 0.461);
+}
+
+#list .done .task {
+	text-decoration: line-through;
+}
+
+span.task {
+	color: rgb(0, 0, 0);
+}
+
+span.remove {
+	color: rgb(238, 85, 85);
+}
+
+span.mark{
+	color: rgb(51, 159, 8);
+}
+
+li.done {
+	color: rgb(255, 255, 255);
+}
+
+#wrapper {
+	background-color: rgba(124, 81, 34, 0.584);
+}
+
+#igla {
+	background-color: rgba(109, 130, 124, 0.11);
+}
+

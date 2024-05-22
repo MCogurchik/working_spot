@@ -1,0 +1,29 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.right {
+    color: rgb(4, 255, 4);
+}
+.wrong {
+    color: rgb(255, 0, 76);
+}
+
+body {
+    
+    background-color: rgba(122, 66, 38, 0.383);
+}
+
+#igla {
+    background-color: rgba(122, 66, 38, 0.191);
+}
+
+#test {
+    padding-left: 8%;
+    padding-top: 7px;
+    font-size: large;
+}
+
+#button {
+    margin-left: 8%;
+}
