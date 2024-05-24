@@ -1,0 +1,182 @@
+/* td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.keyboard {
+    width: 350px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 5px;
+}
+
+.day {
+    background-color: rgb(255, 0, 0);
+    border: solid 0px red;
+    border-radius: 100%;
+} */
+
+
+/* * {
+	box-sizing: border-box;
+}
+#parent {
+	margin: 0 auto;
+	width: 600px;
+}
+#input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+#table {
+	width: 100%;
+}
+#table td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+#date {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+} */
+
+/* #parent {
+	text-align: center;
+}
+#parent > * {
+	margin-bottom: 10px;
+}
+
+#timer {
+	font-size: 18px;
+}
+#text {
+	font-size: 17px;
+	font-style: italic;
+}
+
+button {
+	padding: 5px 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+button:not(.active) {
+	display: none;
+} */
+/* 
+#parent {
+	position: relative;
+}
+#elem {
+	padding: 5px;
+	font-size: 18px;
+}
+
+#parent ul {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: white;
+}
+#parent li {
+	border: 1px solid gray;
+	font-size: 18px;
+	padding: 5px;
+}
+#parent li:hover {
+	border: 1px solid black;
+	cursor: pointer;
+} */
+
+/* .spoiler:not(.active) {
+	display: none;
+} */
+/* 
+#parent {
+	margin: 0 auto;
+	width: 400px;
+}
+
+.menu a {
+	margin-right: 5px;
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	border: 1px solid gray;
+}
+.menu a:hover {
+	background: #f8f8f8;
+}
+.menu a.active {
+	border-color: transparent;
+	background: #f2f2f2;
+}
+
+.tabs .tab:not(.active) {
+	display: none;
+}
+.tabs .tab {
+	padding: 10px;
+	background: #f2f2f2;
+	height: 300px;
+} */
+
+/* #parent {
+	margin: 0 auto;
+	width: 400px;
+}
+.tab {
+	margin-bottom: 10px;
+}
+
+.tab .link a {
+	display: block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	background: #f8f8f8;
+	border: 1px solid gray;
+}
+.tab .link:hover a {
+	background: #f2f2f2;
+}
+
+.tab:not(.active) .text {
+	display: none;
+}
+.tab .text {
+	border: 1px dashed gray;
+	border-top: none;
+	
+	padding: 10px;
+	height: 300px;
+} */
+
+/* #field {
+	width: 500px;
+	margin-bottom: 10px;
+	padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+} 
+*/
